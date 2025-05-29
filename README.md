@@ -5,7 +5,7 @@ This Laravel application implements a dynamic form builder and registration syst
 ## 📽️ Project Demo
 
 <a href="https://drive.google.com/file/d/1y_eXSQi9wIjULVWGAnWIMRSCPEgpKDXN/view?usp=sharing" target="_blank">
-  <img src="demo_preview.png" alt="Click here to watch the demo" width="600">
+  <img src="demo_preview.png" alt="Click here to watch the demo" width="400">
 </a>
 
 

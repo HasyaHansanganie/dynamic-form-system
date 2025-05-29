@@ -2,11 +2,15 @@
 
 This Laravel application implements a dynamic form builder and registration system that allows administrators to configure country-specific registration forms, and users to register using those dynamic forms.
 
+---
+
 ## 📽️ Project Demo
 
 <a href="https://drive.google.com/file/d/1y_eXSQi9wIjULVWGAnWIMRSCPEgpKDXN/view?usp=sharing" target="_blank">
   <img src="demo_preview.png" alt="Click here to watch the demo" width="400">
 </a>
+
+---
 
 
 ## 📦 Features

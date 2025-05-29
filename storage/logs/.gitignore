@@ -1,0 +1,10 @@
+*
+!.gitignore
+/vendor
+/node_modules
+.env
+/storage/*
+!/storage/app/public
+/bootstrap/cache
+.phpunit.result.cache
+
